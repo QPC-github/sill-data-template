@@ -1,0 +1,16 @@
+[
+    {
+        "referentEmail": "john.doe@finances.gouv.fr",
+        "softwareId": 78,
+        "isExpert": true,
+        "useCaseDescription": "Mis à dispostion sur un Bureau à distance via RDP",
+        "isPersonalUse": false
+    },
+    {
+        "referentEmail": "joseph.garrone@data.gouv.fr",
+        "softwareId": 78,
+        "isExpert": false,
+        "useCaseDescription": "Usage personnel pour rédaction de documents",
+        "isPersonalUse": true
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "agencyName": "DINUM",
+        "publicSector": "State",
+        "agencyUrl": "https://www.numerique.gouv.fr/",
+        "serviceName": "Webconf (Jitsi)",
+        "serviceUrl": "https://webconf.numerique.gouv.fr",
+        "description": "Visioconférence",
+        "publicationDate": "2019",
+        "lastUpdateDate": "2020",
+        "signupScope": "Agents publics",
+        "usageScope": "Tout le monde",
+        "signupValidationMethod": "Vérification de l'adresse email",
+        "contentModerationMethod": "Aucune",
+        "softwareSillId": 67
+    },
+    {
+        "id": 3,
+        "agencyName": "DINUM",
+        "publicSector": "State",
+        "agencyUrl": "https://www.numerique.gouv.fr/",
+        "serviceName": "Partage de notes",
+        "serviceUrl": "https://pad.incubateur.net",
+        "description": "Partage de nodes",
+        "publicationDate": "2020-10",
+        "lastUpdateDate": "2020-XX",
+        "signupScope": "Agents de la DINUM",
+        "usageScope": "Tous (lecture), agents DINUM (écriture)",
+        "signupValidationMethod": "Vérification de l'adresse email",
+        "contentModerationMethod": "Manuelle, par l'administrateur",
+        "softwareSillId": 180
+    }
+]

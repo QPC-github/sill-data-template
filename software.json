@@ -1,0 +1,53 @@
+[
+
+    {
+        "id": 1,
+        "name": "7zip",
+        "function": "Compression: Création de .zip, .rar, .tar.gz ect.",
+        "referencedSinceTime": 1514764800000,
+        "isStillInObservation": false,
+        "isFromFrenchPublicService": false,
+        "isPresentInSupportContract": false,
+        "alikeSoftwares": [],
+        "wikidataId": "Q215051",
+        "comptoirDuLibreId": 72,
+        "license": "LGPL-2.0-only",
+        "mimGroup": "MIMO",
+        "versionMin": "19",
+        "workshopUrls": [],
+        "testUrls": [],
+        "useCaseUrls": [],
+        "agentWorkstation": true,
+        "tags": []
+    },
+    {
+        "id": 78,
+        "name": "LibreOffice",
+        "function": "Suite bureautique (logiciel de traitement de texte, tableur ect)",
+        "referencedSinceTime": 1514764800000,
+        "isStillInObservation": false,
+        "isFromFrenchPublicService": false,
+        "isPresentInSupportContract": true,
+        "alikeSoftwares": [
+            {
+                "isKnown": true,
+                "softwareId": 79
+            },
+            {
+                "isKnown": false,
+                "softwareName": "Microsoft Office"
+            }
+        ],
+        "wikidataId": "Q10135",
+        "comptoirDuLibreId": 33,
+        "license": "MPL-2.0",
+        "contextOfUse": "**Nous [contacter](/fr/contact) pour connaître les versions packagées par l'administration**",
+        "mimGroup": "MIMO",
+        "versionMin": "Dernière stable",
+        "workshopUrls": [],
+        "testUrls": [],
+        "useCaseUrls": [],
+        "agentWorkstation": true,
+        "tags": []
+    }
+]

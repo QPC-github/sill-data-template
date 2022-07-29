@@ -1,0 +1,14 @@
+[
+    {
+        "email": "john.doe@finances.gouv.fr",
+        "familyName": "Doe",
+        "firstName": "John",
+        "agencyName": "finances"
+    },
+    {
+        "email": "joseph.garrone@data.gouv.fr",
+        "familyName": "Garrone",
+        "firstName": "Joseph",
+        "agencyName": "etalab"
+    }
+]
